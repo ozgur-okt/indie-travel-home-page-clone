@@ -1,3 +1,14 @@
+#  Indie Travel Main Page Cloning Project 
+
+Here is the indie Travel main page cloning project with ReactJS. The main features I used are:
+- React Router
+- React Sidebar Navigation
+
+
+![picture](https://user-images.githubusercontent.com/73358116/161492327-854ede77-fa99-47c0-b97d-ef67cc99693f.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
