@@ -1,4 +1,5 @@
 #  Indie Travel Main Page Cloning Project 
+![npm](https://img.shields.io/badge/npm-8.1.2-green)
 
 Here is the indie Travel main page cloning project with ReactJS. The main features I used are:
 - React Router
